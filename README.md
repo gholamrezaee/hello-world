@@ -1,4 +1,4 @@
 # hello-world
 Rcodes 
 
-I'm making som emodifications here! 
+I'm making some modifications here! 
